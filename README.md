@@ -16,4 +16,4 @@ This project creates a big data pipeline streaming ingest pipeline to move strea
 
 The project workflow is illustrated below.
 
-<img src="s3_gcp_nifi.png" alt="streaming-pubsub-dataflow-bigquery">
+<img src="https://raw.githubusercontent.com/George-Oboh/George-Oboh.github.io/master/images/projects/project1.png" alt="streaming-pubsub-dataflow-bigquery">
